@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/28 11:34:05.000.268,=rtl.dcp</Transaction>
+    <Transaction>2021/06/28 11:35:18.000.974,C:\Delphi\EstudoComponentes\Componente\TesteComponente.dproj=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/06/28 11:36:22.000.806,=C:\Delphi\EstudoComponentes\Componente\Unit1.pas</Transaction>
+    <Transaction>2021/06/28 11:36:56.000.330,C:\Delphi\EstudoComponentes\Componente\uTesteComponente.Comp.pas=C:\Delphi\EstudoComponentes\Componente\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

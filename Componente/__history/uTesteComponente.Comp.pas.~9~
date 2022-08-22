@@ -1,0 +1,30 @@
+unit uTesteComponente.Comp;
+
+interface
+
+uses
+ System.Classes;
+  procedure register;
+ type
+ TTesteComponente = class(tcomponent)
+  private
+
+  public
+   function TamanhoString(value : string) : Integer;
+  published
+ end;
+implementation
+
+{ TTesteComponente }
+
+procedure register;
+begin
+ RegisterComponents('CompTeste',[TTesteComponente]);
+end;
+
+function TTesteComponente.TamanhoString(value: string): Integer;
+begin
+ Result := Length(value);
+end;
+
+end.
